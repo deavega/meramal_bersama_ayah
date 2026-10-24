@@ -1,0 +1,1249 @@
+bulan,wilayah,inflasi_mtm
+2024-01,Aceh,0.42
+2024-02,Aceh,0.71
+2024-03,Aceh,0.48
+2024-04,Aceh,0.05
+2024-05,Aceh,0.15
+2024-06,Aceh,0.03
+2024-07,Aceh,-0.11
+2024-08,Aceh,0.1
+2024-09,Aceh,-0.52
+2024-10,Aceh,-0.08
+2024-11,Aceh,0.37
+2024-12,Aceh,0.57
+2024-01,Sumatera Utara,0.4
+2024-02,Sumatera Utara,0.41
+2024-03,Sumatera Utara,0.72
+2024-04,Sumatera Utara,-0.04
+2024-05,Sumatera Utara,0.48
+2024-06,Sumatera Utara,-0.33
+2024-07,Sumatera Utara,-0.82
+2024-08,Sumatera Utara,-0.14
+2024-09,Sumatera Utara,-0.21
+2024-10,Sumatera Utara,0.13
+2024-11,Sumatera Utara,0.54
+2024-12,Sumatera Utara,0.98
+2024-01,Sumatera Barat,-0.32
+2024-02,Sumatera Barat,1.17
+2024-03,Sumatera Barat,0.64
+2024-04,Sumatera Barat,-0.3
+2024-05,Sumatera Barat,0.51
+2024-06,Sumatera Barat,0.14
+2024-07,Sumatera Barat,-1.07
+2024-08,Sumatera Barat,-0.16
+2024-09,Sumatera Barat,-0.44
+2024-10,Sumatera Barat,0.11
+2024-11,Sumatera Barat,0.27
+2024-12,Sumatera Barat,0.35
+2024-01,Riau,0.11
+2024-02,Riau,0.59
+2024-03,Riau,0.72
+2024-04,Riau,0.05
+2024-05,Riau,0.3
+2024-06,Riau,-0.22
+2024-07,Riau,-0.8
+2024-08,Riau,-0.27
+2024-09,Riau,-0.33
+2024-10,Riau,0.06
+2024-11,Riau,0.43
+2024-12,Riau,0.62
+2024-01,Jambi,0.83
+2024-02,Jambi,0.13
+2024-03,Jambi,0.54
+2024-04,Jambi,0.18
+2024-05,Jambi,0.19
+2024-06,Jambi,-0.13
+2024-07,Jambi,-0.82
+2024-08,Jambi,-0.01
+2024-09,Jambi,-0.17
+2024-10,Jambi,0.03
+2024-11,Jambi,0.21
+2024-12,Jambi,0.46
+2024-01,Sumatera Selatan,-0.08
+2024-02,Sumatera Selatan,0.01
+2024-03,Sumatera Selatan,0.25
+2024-04,Sumatera Selatan,0.43
+2024-05,Sumatera Selatan,0.06
+2024-06,Sumatera Selatan,-0.03
+2024-07,Sumatera Selatan,-0.29
+2024-08,Sumatera Selatan,-0.19
+2024-09,Sumatera Selatan,-0.12
+2024-10,Sumatera Selatan,0.09
+2024-11,Sumatera Selatan,0.58
+2024-12,Sumatera Selatan,0.5
+2024-01,Bengkulu,0.15
+2024-02,Bengkulu,0.79
+2024-03,Bengkulu,0.22
+2024-04,Bengkulu,0.13
+2024-05,Bengkulu,0.3
+2024-06,Bengkulu,-0.04
+2024-07,Bengkulu,-0.7
+2024-08,Bengkulu,-0.18
+2024-09,Bengkulu,-0.28
+2024-10,Bengkulu,-0.09
+2024-11,Bengkulu,0.2
+2024-12,Bengkulu,0.34
+2024-01,Lampung,-0.19
+2024-02,Lampung,0.39
+2024-03,Lampung,0.36
+2024-04,Lampung,-0.01
+2024-05,Lampung,0.08
+2024-06,Lampung,-0.11
+2024-07,Lampung,-0.16
+2024-08,Lampung,0.07
+2024-09,Lampung,0.05
+2024-10,Lampung,0.2
+2024-11,Lampung,0.42
+2024-12,Lampung,0.47
+2024-01,Kepulauan Bangka Belitung,0.13
+2024-02,Kepulauan Bangka Belitung,0.39
+2024-03,Kepulauan Bangka Belitung,0.04
+2024-04,Kepulauan Bangka Belitung,0.54
+2024-05,Kepulauan Bangka Belitung,-0.32
+2024-06,Kepulauan Bangka Belitung,-0.31
+2024-07,Kepulauan Bangka Belitung,-0.39
+2024-08,Kepulauan Bangka Belitung,0.23
+2024-09,Kepulauan Bangka Belitung,-0.02
+2024-10,Kepulauan Bangka Belitung,-0.18
+2024-11,Kepulauan Bangka Belitung,0.01
+2024-12,Kepulauan Bangka Belitung,0.65
+2024-01,Kepulauan Riau,0.51
+2024-02,Kepulauan Riau,-0.22
+2024-03,Kepulauan Riau,0.46
+2024-04,Kepulauan Riau,0.06
+2024-05,Kepulauan Riau,0.37
+2024-06,Kepulauan Riau,0.28
+2024-07,Kepulauan Riau,-0.45
+2024-08,Kepulauan Riau,-0.04
+2024-09,Kepulauan Riau,0.14
+2024-10,Kepulauan Riau,0.06
+2024-11,Kepulauan Riau,0.24
+2024-12,Kepulauan Riau,0.68
+2024-01,Dki Jakarta,-0.19
+2024-02,Dki Jakarta,0.45
+2024-03,Dki Jakarta,0.37
+2024-04,Dki Jakarta,0.26
+2024-05,Dki Jakarta,-0.1
+2024-06,Dki Jakarta,0.12
+2024-07,Dki Jakarta,-0.06
+2024-08,Dki Jakarta,0.04
+2024-09,Dki Jakarta,-0.1
+2024-10,Dki Jakarta,0.03
+2024-11,Dki Jakarta,0.29
+2024-12,Dki Jakarta,0.37
+2024-01,Jawa Barat,0.15
+2024-02,Jawa Barat,0.45
+2024-03,Jawa Barat,0.51
+2024-04,Jawa Barat,0.15
+2024-05,Jawa Barat,-0.12
+2024-06,Jawa Barat,-0.04
+2024-07,Jawa Barat,0.06
+2024-08,Jawa Barat,0.07
+2024-09,Jawa Barat,-0.21
+2024-10,Jawa Barat,0.02
+2024-11,Jawa Barat,0.24
+2024-12,Jawa Barat,0.35
+2024-01,Jawa Tengah,-0.08
+2024-02,Jawa Tengah,0.57
+2024-03,Jawa Tengah,0.6
+2024-04,Jawa Tengah,0.2
+2024-05,Jawa Tengah,-0.22
+2024-06,Jawa Tengah,-0.28
+2024-07,Jawa Tengah,-0.13
+2024-08,Jawa Tengah,-0.07
+2024-09,Jawa Tengah,0.05
+2024-10,Jawa Tengah,0.19
+2024-11,Jawa Tengah,0.26
+2024-12,Jawa Tengah,0.57
+2024-01,Di Yogyakarta,-0.02
+2024-02,Di Yogyakarta,0.39
+2024-03,Di Yogyakarta,0.43
+2024-04,Di Yogyakarta,0.09
+2024-05,Di Yogyakarta,-0.08
+2024-06,Di Yogyakarta,-0.25
+2024-07,Di Yogyakarta,-0.03
+2024-08,Di Yogyakarta,0.05
+2024-09,Di Yogyakarta,-0.1
+2024-10,Di Yogyakarta,0.09
+2024-11,Di Yogyakarta,0.25
+2024-12,Di Yogyakarta,0.46
+2024-01,Jawa Timur,-0.1
+2024-02,Jawa Timur,0.49
+2024-03,Jawa Timur,0.64
+2024-04,Jawa Timur,0.36
+2024-05,Jawa Timur,-0.21
+2024-06,Jawa Timur,-0.37
+2024-07,Jawa Timur,0.04
+2024-08,Jawa Timur,-0.07
+2024-09,Jawa Timur,-0.12
+2024-10,Jawa Timur,0.15
+2024-11,Jawa Timur,0.24
+2024-12,Jawa Timur,0.46
+2024-01,Banten,-0.04
+2024-02,Banten,0.52
+2024-03,Banten,0.98
+2024-04,Banten,0.41
+2024-05,Banten,-0.52
+2024-06,Banten,-0.08
+2024-07,Banten,-0.24
+2024-08,Banten,0.01
+2024-09,Banten,-0.26
+2024-10,Banten,0.14
+2024-11,Banten,0.45
+2024-12,Banten,0.5
+2024-01,Bali,-0.09
+2024-02,Bali,0.61
+2024-03,Bali,0.93
+2024-04,Bali,0.32
+2024-05,Bali,-0.1
+2024-06,Bali,-0.55
+2024-07,Bali,0.1
+2024-08,Bali,0.1
+2024-09,Bali,0.13
+2024-10,Bali,0.07
+2024-11,Bali,0.5
+2024-12,Bali,0.31
+2024-01,Nusa Tenggara Barat,0.04
+2024-02,Nusa Tenggara Barat,0.09
+2024-03,Nusa Tenggara Barat,0.87
+2024-04,Nusa Tenggara Barat,0.06
+2024-05,Nusa Tenggara Barat,-0.41
+2024-06,Nusa Tenggara Barat,-0.26
+2024-07,Nusa Tenggara Barat,-0.35
+2024-08,Nusa Tenggara Barat,0.06
+2024-09,Nusa Tenggara Barat,0.09
+2024-10,Nusa Tenggara Barat,0.09
+2024-11,Nusa Tenggara Barat,0.56
+2024-12,Nusa Tenggara Barat,0.46
+2024-01,Nusa Tenggara Timur,0.97
+2024-02,Nusa Tenggara Timur,-0.16
+2024-03,Nusa Tenggara Timur,-0.14
+2024-04,Nusa Tenggara Timur,0.31
+2024-05,Nusa Tenggara Timur,-0.24
+2024-06,Nusa Tenggara Timur,-0.23
+2024-07,Nusa Tenggara Timur,-0.32
+2024-08,Nusa Tenggara Timur,-0.25
+2024-09,Nusa Tenggara Timur,-0.03
+2024-10,Nusa Tenggara Timur,0.26
+2024-11,Nusa Tenggara Timur,0.19
+2024-12,Nusa Tenggara Timur,0.82
+2024-01,Kalimantan Barat,0.37
+2024-02,Kalimantan Barat,0.08
+2024-03,Kalimantan Barat,0.33
+2024-04,Kalimantan Barat,0.69
+2024-05,Kalimantan Barat,0.16
+2024-06,Kalimantan Barat,-0.29
+2024-07,Kalimantan Barat,-0.45
+2024-08,Kalimantan Barat,-0.25
+2024-09,Kalimantan Barat,0.29
+2024-10,Kalimantan Barat,0.04
+2024-11,Kalimantan Barat,0.27
+2024-12,Kalimantan Barat,0.46
+2024-01,Kalimantan Tengah,0.2
+2024-02,Kalimantan Tengah,-0.46
+2024-03,Kalimantan Tengah,0.66
+2024-04,Kalimantan Tengah,0.73
+2024-05,Kalimantan Tengah,0.22
+2024-06,Kalimantan Tengah,-0.28
+2024-07,Kalimantan Tengah,-0.68
+2024-08,Kalimantan Tengah,-0.39
+2024-09,Kalimantan Tengah,0.07
+2024-10,Kalimantan Tengah,0.14
+2024-11,Kalimantan Tengah,0.36
+2024-12,Kalimantan Tengah,0.48
+2024-01,Kalimantan Selatan,0.55
+2024-02,Kalimantan Selatan,-0.01
+2024-03,Kalimantan Selatan,0.62
+2024-04,Kalimantan Selatan,0.71
+2024-05,Kalimantan Selatan,-0.01
+2024-06,Kalimantan Selatan,-0.32
+2024-07,Kalimantan Selatan,-0.44
+2024-08,Kalimantan Selatan,-0.36
+2024-09,Kalimantan Selatan,0.07
+2024-10,Kalimantan Selatan,0.16
+2024-11,Kalimantan Selatan,0.5
+2024-12,Kalimantan Selatan,0.46
+2024-01,Kalimantan Timur,0.25
+2024-02,Kalimantan Timur,0.27
+2024-03,Kalimantan Timur,0.34
+2024-04,Kalimantan Timur,0.7
+2024-05,Kalimantan Timur,0.19
+2024-06,Kalimantan Timur,-0.05
+2024-07,Kalimantan Timur,-0.38
+2024-08,Kalimantan Timur,-0.12
+2024-09,Kalimantan Timur,0.06
+2024-10,Kalimantan Timur,-0.16
+2024-11,Kalimantan Timur,0.08
+2024-12,Kalimantan Timur,0.31
+2024-01,Kalimantan Utara,0.05
+2024-02,Kalimantan Utara,0.19
+2024-03,Kalimantan Utara,0.42
+2024-04,Kalimantan Utara,0.39
+2024-05,Kalimantan Utara,0.11
+2024-06,Kalimantan Utara,-0.08
+2024-07,Kalimantan Utara,-0.01
+2024-08,Kalimantan Utara,-0.19
+2024-09,Kalimantan Utara,-0.09
+2024-10,Kalimantan Utara,0.17
+2024-11,Kalimantan Utara,-0.12
+2024-12,Kalimantan Utara,0.44
+2024-01,Sulawesi Utara,-0.41
+2024-02,Sulawesi Utara,-0.63
+2024-03,Sulawesi Utara,1.07
+2024-04,Sulawesi Utara,0.17
+2024-05,Sulawesi Utara,-0.07
+2024-06,Sulawesi Utara,0.47
+2024-07,Sulawesi Utara,-0.11
+2024-08,Sulawesi Utara,-0.04
+2024-09,Sulawesi Utara,-0.54
+2024-10,Sulawesi Utara,0.21
+2024-11,Sulawesi Utara,0.41
+2024-12,Sulawesi Utara,-0.07
+2024-01,Sulawesi Tengah,0.08
+2024-02,Sulawesi Tengah,0.45
+2024-03,Sulawesi Tengah,0.55
+2024-04,Sulawesi Tengah,0.05
+2024-05,Sulawesi Tengah,0.07
+2024-06,Sulawesi Tengah,0.18
+2024-07,Sulawesi Tengah,-0.22
+2024-08,Sulawesi Tengah,-0.25
+2024-09,Sulawesi Tengah,0.07
+2024-10,Sulawesi Tengah,0.01
+2024-11,Sulawesi Tengah,-0.01
+2024-12,Sulawesi Tengah,0.32
+2024-01,Sulawesi Selatan,0.36
+2024-02,Sulawesi Selatan,0.3
+2024-03,Sulawesi Selatan,0.38
+2024-04,Sulawesi Selatan,0.15
+2024-05,Sulawesi Selatan,-0.1
+2024-06,Sulawesi Selatan,-0.26
+2024-07,Sulawesi Selatan,-0.18
+2024-08,Sulawesi Selatan,-0.04
+2024-09,Sulawesi Selatan,-0.09
+2024-10,Sulawesi Selatan,0.15
+2024-11,Sulawesi Selatan,0.17
+2024-12,Sulawesi Selatan,0.38
+2024-01,Sulawesi Tenggara,-0.03
+2024-02,Sulawesi Tenggara,0.19
+2024-03,Sulawesi Tenggara,0.62
+2024-04,Sulawesi Tenggara,0.47
+2024-05,Sulawesi Tenggara,0.1
+2024-06,Sulawesi Tenggara,-0.09
+2024-07,Sulawesi Tenggara,-0.16
+2024-08,Sulawesi Tenggara,-0.27
+2024-09,Sulawesi Tenggara,-0.2
+2024-10,Sulawesi Tenggara,-0.17
+2024-11,Sulawesi Tenggara,0.29
+2024-12,Sulawesi Tenggara,0.29
+2024-01,Gorontalo,-0.91
+2024-02,Gorontalo,-1.15
+2024-03,Gorontalo,0.81
+2024-04,Gorontalo,0.57
+2024-05,Gorontalo,0.3
+2024-06,Gorontalo,-0.14
+2024-07,Gorontalo,-0.95
+2024-08,Gorontalo,-0.14
+2024-09,Gorontalo,0.39
+2024-10,Gorontalo,-0.57
+2024-11,Gorontalo,0.46
+2024-12,Gorontalo,0.57
+2024-01,Sulawesi Barat,0.08
+2024-02,Sulawesi Barat,0.08
+2024-03,Sulawesi Barat,0.43
+2024-04,Sulawesi Barat,-0.27
+2024-05,Sulawesi Barat,-0.07
+2024-06,Sulawesi Barat,0.81
+2024-07,Sulawesi Barat,-0.45
+2024-08,Sulawesi Barat,-0.13
+2024-09,Sulawesi Barat,0.33
+2024-10,Sulawesi Barat,0.21
+2024-11,Sulawesi Barat,-0.17
+2024-12,Sulawesi Barat,0.66
+2024-01,Maluku,0.19
+2024-02,Maluku,-1.19
+2024-03,Maluku,-0.46
+2024-04,Maluku,0.29
+2024-05,Maluku,1.89
+2024-06,Maluku,1.33
+2024-07,Maluku,-0.82
+2024-08,Maluku,-0.34
+2024-09,Maluku,-0.07
+2024-10,Maluku,0.65
+2024-11,Maluku,0.25
+2024-12,Maluku,-0.41
+2024-01,Maluku Utara,-0.02
+2024-02,Maluku Utara,-0.42
+2024-03,Maluku Utara,0.48
+2024-04,Maluku Utara,0.44
+2024-05,Maluku Utara,0.59
+2024-06,Maluku Utara,0.16
+2024-07,Maluku Utara,-0.06
+2024-08,Maluku Utara,0.08
+2024-09,Maluku Utara,0.56
+2024-10,Maluku Utara,-1.05
+2024-11,Maluku Utara,0.43
+2024-12,Maluku Utara,0.31
+2024-01,Papua Barat,0.63
+2024-02,Papua Barat,0.13
+2024-03,Papua Barat,0.5
+2024-04,Papua Barat,0.17
+2024-05,Papua Barat,1.35
+2024-06,Papua Barat,-0.27
+2024-07,Papua Barat,0.13
+2024-08,Papua Barat,0.31
+2024-09,Papua Barat,-0.92
+2024-10,Papua Barat,-0.59
+2024-11,Papua Barat,0.74
+2024-12,Papua Barat,0.34
+2024-01,Papua Barat Daya,0.13
+2024-02,Papua Barat Daya,-0.11
+2024-03,Papua Barat Daya,0.37
+2024-04,Papua Barat Daya,0.73
+2024-05,Papua Barat Daya,0.09
+2024-06,Papua Barat Daya,0.29
+2024-07,Papua Barat Daya,0.25
+2024-08,Papua Barat Daya,-0.05
+2024-09,Papua Barat Daya,0.47
+2024-10,Papua Barat Daya,-0.15
+2024-11,Papua Barat Daya,-0.04
+2024-12,Papua Barat Daya,-0.11
+2024-01,Papua,0.01
+2024-02,Papua,-0.73
+2024-03,Papua,-0.19
+2024-04,Papua,1.2
+2024-05,Papua,0.61
+2024-06,Papua,0.35
+2024-07,Papua,-0.67
+2024-08,Papua,-0.08
+2024-09,Papua,-0.41
+2024-10,Papua,0.22
+2024-11,Papua,1.41
+2024-12,Papua,0.05
+2024-01,Papua Selatan,0.57
+2024-02,Papua Selatan,0.08
+2024-03,Papua Selatan,-0.17
+2024-04,Papua Selatan,0.33
+2024-05,Papua Selatan,2.0
+2024-06,Papua Selatan,-1.11
+2024-07,Papua Selatan,-0.92
+2024-08,Papua Selatan,0.25
+2024-09,Papua Selatan,-0.74
+2024-10,Papua Selatan,0.01
+2024-11,Papua Selatan,0.26
+2024-12,Papua Selatan,1.24
+2024-01,Papua Tengah,0.43
+2024-02,Papua Tengah,-1.17
+2024-03,Papua Tengah,1.01
+2024-04,Papua Tengah,1.2
+2024-05,Papua Tengah,1.43
+2024-06,Papua Tengah,-0.17
+2024-07,Papua Tengah,0.12
+2024-08,Papua Tengah,-0.24
+2024-09,Papua Tengah,-0.44
+2024-10,Papua Tengah,0.48
+2024-11,Papua Tengah,0.37
+2024-12,Papua Tengah,0.23
+2024-01,Papua Pegunungan,1.01
+2024-02,Papua Pegunungan,-0.49
+2024-03,Papua Pegunungan,0.02
+2024-04,Papua Pegunungan,1.06
+2024-05,Papua Pegunungan,1.1
+2024-06,Papua Pegunungan,2.11
+2024-07,Papua Pegunungan,-0.44
+2024-08,Papua Pegunungan,-0.02
+2024-09,Papua Pegunungan,-0.6
+2024-10,Papua Pegunungan,-0.7
+2024-11,Papua Pegunungan,-0.15
+2024-12,Papua Pegunungan,2.39
+2024-01,Indonesia,0.04
+2024-02,Indonesia,0.37
+2024-03,Indonesia,0.52
+2024-04,Indonesia,0.25
+2024-05,Indonesia,-0.03
+2024-06,Indonesia,-0.08
+2024-07,Indonesia,-0.18
+2024-08,Indonesia,-0.03
+2024-09,Indonesia,-0.12
+2024-10,Indonesia,0.08
+2024-11,Indonesia,0.3
+2024-12,Indonesia,0.44
+2025-01,Aceh,-0.13
+2025-02,Aceh,-0.48
+2025-03,Aceh,1.6
+2025-04,Aceh,1.61
+2025-05,Aceh,-0.59
+2025-06,Aceh,-0.13
+2025-07,Aceh,0.68
+2025-08,Aceh,0.78
+2025-09,Aceh,0.2
+2025-10,Aceh,0.12
+2025-11,Aceh,-0.67
+2025-12,Aceh,3.6
+2025-01,Sumatera Utara,0.07
+2025-02,Sumatera Utara,-0.63
+2025-03,Sumatera Utara,0.68
+2025-04,Sumatera Utara,1.35
+2025-05,Sumatera Utara,-0.49
+2025-06,Sumatera Utara,-0.19
+2025-07,Sumatera Utara,0.76
+2025-08,Sumatera Utara,1.37
+2025-09,Sumatera Utara,0.65
+2025-10,Sumatera Utara,-0.2
+2025-11,Sumatera Utara,-0.42
+2025-12,Sumatera Utara,1.66
+2025-01,Sumatera Barat,0.03
+2025-02,Sumatera Barat,-0.16
+2025-03,Sumatera Barat,1.03
+2025-04,Sumatera Barat,1.77
+2025-05,Sumatera Barat,-0.98
+2025-06,Sumatera Barat,-0.26
+2025-07,Sumatera Barat,0.64
+2025-08,Sumatera Barat,0.52
+2025-09,Sumatera Barat,0.85
+2025-10,Sumatera Barat,0.4
+2025-11,Sumatera Barat,-0.24
+2025-12,Sumatera Barat,1.48
+2025-01,Riau,-0.02
+2025-02,Riau,-0.5
+2025-03,Riau,1.39
+2025-04,Riau,1.43
+2025-05,Riau,-0.78
+2025-06,Riau,-0.22
+2025-07,Riau,0.62
+2025-08,Riau,0.85
+2025-09,Riau,1.11
+2025-10,Riau,-0.06
+2025-11,Riau,-0.22
+2025-12,Riau,1.21
+2025-01,Jambi,-0.13
+2025-02,Jambi,-0.6
+2025-03,Jambi,1.13
+2025-04,Jambi,1.7
+2025-05,Jambi,-0.68
+2025-06,Jambi,0.24
+2025-07,Jambi,0.52
+2025-08,Jambi,0.05
+2025-09,Jambi,0.81
+2025-10,Jambi,-0.03
+2025-11,Jambi,0.05
+2025-12,Jambi,0.62
+2025-01,Sumatera Selatan,-0.36
+2025-02,Sumatera Selatan,-0.41
+2025-03,Sumatera Selatan,1.53
+2025-04,Sumatera Selatan,1.39
+2025-05,Sumatera Selatan,-0.35
+2025-06,Sumatera Selatan,0.08
+2025-07,Sumatera Selatan,0.14
+2025-08,Sumatera Selatan,-0.04
+2025-09,Sumatera Selatan,0.27
+2025-10,Sumatera Selatan,0.13
+2025-11,Sumatera Selatan,0.02
+2025-12,Sumatera Selatan,0.49
+2025-01,Bengkulu,-0.59
+2025-02,Bengkulu,-0.57
+2025-03,Bengkulu,1.28
+2025-04,Bengkulu,1.31
+2025-05,Bengkulu,-0.26
+2025-06,Bengkulu,-0.53
+2025-07,Bengkulu,0.4
+2025-08,Bengkulu,0.1
+2025-09,Bengkulu,0.97
+2025-10,Bengkulu,0.18
+2025-11,Bengkulu,0.04
+2025-12,Bengkulu,0.43
+2025-01,Lampung,-0.71
+2025-02,Lampung,-0.66
+2025-03,Lampung,1.96
+2025-04,Lampung,1.19
+2025-05,Lampung,-0.58
+2025-06,Lampung,0.04
+2025-07,Lampung,0.19
+2025-08,Lampung,-1.47
+2025-09,Lampung,0.16
+2025-10,Lampung,0.23
+2025-11,Lampung,0.36
+2025-12,Lampung,0.59
+2025-01,Kepulauan Bangka Belitung,-0.85
+2025-02,Kepulauan Bangka Belitung,-0.03
+2025-03,Kepulauan Bangka Belitung,1.83
+2025-04,Kepulauan Bangka Belitung,0.77
+2025-05,Kepulauan Bangka Belitung,-0.89
+2025-06,Kepulauan Bangka Belitung,-0.1
+2025-07,Kepulauan Bangka Belitung,0.65
+2025-08,Kepulauan Bangka Belitung,-0.46
+2025-09,Kepulauan Bangka Belitung,0.46
+2025-10,Kepulauan Bangka Belitung,0.49
+2025-11,Kepulauan Bangka Belitung,0.36
+2025-12,Kepulauan Bangka Belitung,0.55
+2025-01,Kepulauan Riau,0.43
+2025-02,Kepulauan Riau,-0.14
+2025-03,Kepulauan Riau,0.38
+2025-04,Kepulauan Riau,0.59
+2025-05,Kepulauan Riau,-0.44
+2025-06,Kepulauan Riau,-0.12
+2025-07,Kepulauan Riau,0.19
+2025-08,Kepulauan Riau,0.18
+2025-09,Kepulauan Riau,0.64
+2025-10,Kepulauan Riau,0.36
+2025-11,Kepulauan Riau,0.23
+2025-12,Kepulauan Riau,1.14
+2025-01,Dki Jakarta,-1.5
+2025-02,Dki Jakarta,-0.29
+2025-03,Dki Jakarta,2.0
+2025-04,Dki Jakarta,1.44
+2025-05,Dki Jakarta,-0.24
+2025-06,Dki Jakarta,0.13
+2025-07,Dki Jakarta,0.11
+2025-08,Dki Jakarta,-0.05
+2025-09,Dki Jakarta,0.13
+2025-10,Dki Jakarta,0.31
+2025-11,Dki Jakarta,0.27
+2025-12,Dki Jakarta,0.33
+2025-01,Jawa Barat,-0.68
+2025-02,Jawa Barat,-0.61
+2025-03,Jawa Barat,1.6
+2025-04,Jawa Barat,1.01
+2025-05,Jawa Barat,-0.32
+2025-06,Jawa Barat,0.27
+2025-07,Jawa Barat,0.3
+2025-08,Jawa Barat,-0.19
+2025-09,Jawa Barat,0.21
+2025-10,Jawa Barat,0.45
+2025-11,Jawa Barat,0.16
+2025-12,Jawa Barat,0.43
+2025-01,Jawa Tengah,-0.46
+2025-02,Jawa Tengah,-0.78
+2025-03,Jawa Tengah,1.43
+2025-04,Jawa Tengah,1.38
+2025-05,Jawa Tengah,-0.49
+2025-06,Jawa Tengah,0.24
+2025-07,Jawa Tengah,0.18
+2025-08,Jawa Tengah,-0.1
+2025-09,Jawa Tengah,0.21
+2025-10,Jawa Tengah,0.4
+2025-11,Jawa Tengah,0.19
+2025-12,Jawa Tengah,0.5
+2025-01,Di Yogyakarta,-0.35
+2025-02,Di Yogyakarta,-0.86
+2025-03,Di Yogyakarta,1.25
+2025-04,Di Yogyakarta,1.67
+2025-05,Di Yogyakarta,-0.15
+2025-06,Di Yogyakarta,0.23
+2025-07,Di Yogyakarta,0.05
+2025-08,Di Yogyakarta,-0.24
+2025-09,Di Yogyakarta,0.15
+2025-10,Di Yogyakarta,0.42
+2025-11,Di Yogyakarta,0.27
+2025-12,Di Yogyakarta,0.65
+2025-01,Jawa Timur,-0.54
+2025-02,Jawa Timur,-0.59
+2025-03,Jawa Timur,1.44
+2025-04,Jawa Timur,0.93
+2025-05,Jawa Timur,-0.34
+2025-06,Jawa Timur,0.43
+2025-07,Jawa Timur,0.22
+2025-08,Jawa Timur,-0.1
+2025-09,Jawa Timur,0.23
+2025-10,Jawa Timur,0.3
+2025-11,Jawa Timur,0.17
+2025-12,Jawa Timur,0.76
+2025-01,Banten,-1.05
+2025-02,Banten,-0.66
+2025-03,Banten,2.02
+2025-04,Banten,1.29
+2025-05,Banten,-0.54
+2025-06,Banten,0.19
+2025-07,Banten,0.21
+2025-08,Banten,-0.32
+2025-09,Banten,0.1
+2025-10,Banten,0.57
+2025-11,Banten,0.27
+2025-12,Banten,0.67
+2025-01,Bali,-0.02
+2025-02,Bali,-0.57
+2025-03,Bali,1.61
+2025-04,Bali,0.73
+2025-05,Bali,-0.47
+2025-06,Bali,0.44
+2025-07,Bali,0.32
+2025-08,Bali,-0.39
+2025-09,Bali,-0.01
+2025-10,Bali,0.16
+2025-11,Bali,0.4
+2025-12,Bali,0.7
+2025-01,Nusa Tenggara Barat,-0.55
+2025-02,Nusa Tenggara Barat,-0.6
+2025-03,Nusa Tenggara Barat,2.04
+2025-04,Nusa Tenggara Barat,0.69
+2025-05,Nusa Tenggara Barat,-0.58
+2025-06,Nusa Tenggara Barat,0.6
+2025-07,Nusa Tenggara Barat,0.17
+2025-08,Nusa Tenggara Barat,-0.41
+2025-09,Nusa Tenggara Barat,0.22
+2025-10,Nusa Tenggara Barat,0.35
+2025-11,Nusa Tenggara Barat,0.34
+2025-12,Nusa Tenggara Barat,0.72
+2025-01,Nusa Tenggara Timur,-0.27
+2025-02,Nusa Tenggara Timur,0.37
+2025-03,Nusa Tenggara Timur,1.24
+2025-04,Nusa Tenggara Timur,0.22
+2025-05,Nusa Tenggara Timur,-0.4
+2025-06,Nusa Tenggara Timur,-0.11
+2025-07,Nusa Tenggara Timur,0.96
+2025-08,Nusa Tenggara Timur,-0.55
+2025-09,Nusa Tenggara Timur,-0.43
+2025-10,Nusa Tenggara Timur,-0.04
+2025-11,Nusa Tenggara Timur,0.58
+2025-12,Nusa Tenggara Timur,0.81
+2025-01,Kalimantan Barat,-1.17
+2025-02,Kalimantan Barat,-0.04
+2025-03,Kalimantan Barat,1.23
+2025-04,Kalimantan Barat,0.95
+2025-05,Kalimantan Barat,-0.45
+2025-06,Kalimantan Barat,0.32
+2025-07,Kalimantan Barat,0.47
+2025-08,Kalimantan Barat,-0.26
+2025-09,Kalimantan Barat,0.11
+2025-10,Kalimantan Barat,0.17
+2025-11,Kalimantan Barat,0.24
+2025-12,Kalimantan Barat,0.28
+2025-01,Kalimantan Tengah,-0.54
+2025-02,Kalimantan Tengah,-0.46
+2025-03,Kalimantan Tengah,1.71
+2025-04,Kalimantan Tengah,0.61
+2025-05,Kalimantan Tengah,-0.53
+2025-06,Kalimantan Tengah,0.32
+2025-07,Kalimantan Tengah,0.38
+2025-08,Kalimantan Tengah,-0.44
+2025-09,Kalimantan Tengah,0.33
+2025-10,Kalimantan Tengah,0.52
+2025-11,Kalimantan Tengah,0.19
+2025-12,Kalimantan Tengah,1.04
+2025-01,Kalimantan Selatan,-0.76
+2025-02,Kalimantan Selatan,-0.39
+2025-03,Kalimantan Selatan,1.59
+2025-04,Kalimantan Selatan,1.08
+2025-05,Kalimantan Selatan,-0.32
+2025-06,Kalimantan Selatan,0.23
+2025-07,Kalimantan Selatan,0.21
+2025-08,Kalimantan Selatan,-0.16
+2025-09,Kalimantan Selatan,0.29
+2025-10,Kalimantan Selatan,0.36
+2025-11,Kalimantan Selatan,0.73
+2025-12,Kalimantan Selatan,0.76
+2025-01,Kalimantan Timur,-1.0
+2025-02,Kalimantan Timur,-0.25
+2025-03,Kalimantan Timur,2.02
+2025-04,Kalimantan Timur,0.9
+2025-05,Kalimantan Timur,-0.35
+2025-06,Kalimantan Timur,0.54
+2025-07,Kalimantan Timur,0.06
+2025-08,Kalimantan Timur,-0.4
+2025-09,Kalimantan Timur,0.04
+2025-10,Kalimantan Timur,0.01
+2025-11,Kalimantan Timur,0.41
+2025-12,Kalimantan Timur,0.71
+2025-01,Kalimantan Utara,-1.35
+2025-02,Kalimantan Utara,-0.17
+2025-03,Kalimantan Utara,2.16
+2025-04,Kalimantan Utara,0.45
+2025-05,Kalimantan Utara,0.06
+2025-06,Kalimantan Utara,0.07
+2025-07,Kalimantan Utara,0.59
+2025-08,Kalimantan Utara,0.06
+2025-09,Kalimantan Utara,-0.01
+2025-10,Kalimantan Utara,0.08
+2025-11,Kalimantan Utara,0.11
+2025-12,Kalimantan Utara,0.54
+2025-01,Sulawesi Utara,-1.1
+2025-02,Sulawesi Utara,-0.53
+2025-03,Sulawesi Utara,2.65
+2025-04,Sulawesi Utara,1.02
+2025-05,Sulawesi Utara,-0.79
+2025-06,Sulawesi Utara,0.64
+2025-07,Sulawesi Utara,0.21
+2025-08,Sulawesi Utara,-1.11
+2025-09,Sulawesi Utara,0.07
+2025-10,Sulawesi Utara,0.12
+2025-11,Sulawesi Utara,-0.41
+2025-12,Sulawesi Utara,0.51
+2025-01,Sulawesi Tengah,-1.18
+2025-02,Sulawesi Tengah,0.06
+2025-03,Sulawesi Tengah,2.82
+2025-04,Sulawesi Tengah,1.12
+2025-05,Sulawesi Tengah,-0.28
+2025-06,Sulawesi Tengah,0.05
+2025-07,Sulawesi Tengah,0.96
+2025-08,Sulawesi Tengah,0.06
+2025-09,Sulawesi Tengah,-0.07
+2025-10,Sulawesi Tengah,0.05
+2025-11,Sulawesi Tengah,-0.41
+2025-12,Sulawesi Tengah,0.14
+2025-01,Sulawesi Selatan,-0.75
+2025-02,Sulawesi Selatan,-0.89
+2025-03,Sulawesi Selatan,2.16
+2025-04,Sulawesi Selatan,1.75
+2025-05,Sulawesi Selatan,-0.34
+2025-06,Sulawesi Selatan,-0.06
+2025-07,Sulawesi Selatan,0.61
+2025-08,Sulawesi Selatan,0.04
+2025-09,Sulawesi Selatan,-0.17
+2025-10,Sulawesi Selatan,0.1
+2025-11,Sulawesi Selatan,-0.07
+2025-12,Sulawesi Selatan,0.49
+2025-01,Sulawesi Tenggara,-1.45
+2025-02,Sulawesi Tenggara,0.36
+2025-03,Sulawesi Tenggara,2.39
+2025-04,Sulawesi Tenggara,0.89
+2025-05,Sulawesi Tenggara,-0.14
+2025-06,Sulawesi Tenggara,0.7
+2025-07,Sulawesi Tenggara,1.01
+2025-08,Sulawesi Tenggara,-0.24
+2025-09,Sulawesi Tenggara,-0.26
+2025-10,Sulawesi Tenggara,-0.58
+2025-11,Sulawesi Tenggara,-0.02
+2025-12,Sulawesi Tenggara,0.22
+2025-01,Gorontalo,-1.64
+2025-02,Gorontalo,0.1
+2025-03,Gorontalo,2.88
+2025-04,Gorontalo,1.09
+2025-05,Gorontalo,-1.68
+2025-06,Gorontalo,0.37
+2025-07,Gorontalo,1.34
+2025-08,Gorontalo,-0.73
+2025-09,Gorontalo,-0.12
+2025-10,Gorontalo,-0.14
+2025-11,Gorontalo,0.24
+2025-12,Gorontalo,0.88
+2025-01,Sulawesi Barat,-1.08
+2025-02,Sulawesi Barat,-0.48
+2025-03,Sulawesi Barat,2.23
+2025-04,Sulawesi Barat,1.51
+2025-05,Sulawesi Barat,-0.22
+2025-06,Sulawesi Barat,0.18
+2025-07,Sulawesi Barat,0.52
+2025-08,Sulawesi Barat,-0.18
+2025-09,Sulawesi Barat,-0.14
+2025-10,Sulawesi Barat,-0.18
+2025-11,Sulawesi Barat,-0.24
+2025-12,Sulawesi Barat,0.58
+2025-01,Maluku,-0.33
+2025-02,Maluku,-0.63
+2025-03,Maluku,1.72
+2025-04,Maluku,0.09
+2025-05,Maluku,0.8
+2025-06,Maluku,0.97
+2025-07,Maluku,0.26
+2025-08,Maluku,-0.09
+2025-09,Maluku,-0.29
+2025-10,Maluku,-0.05
+2025-11,Maluku,0.28
+2025-12,Maluku,0.81
+2025-01,Maluku Utara,-1.64
+2025-02,Maluku Utara,-0.11
+2025-03,Maluku Utara,2.65
+2025-04,Maluku Utara,1.33
+2025-05,Maluku Utara,-0.71
+2025-06,Maluku Utara,0.27
+2025-07,Maluku Utara,0.39
+2025-08,Maluku Utara,-1.9
+2025-09,Maluku Utara,-0.04
+2025-10,Maluku Utara,0.29
+2025-11,Maluku Utara,1.13
+2025-12,Maluku Utara,0.05
+2025-01,Papua Barat,-2.29
+2025-02,Papua Barat,-1.41
+2025-03,Papua Barat,2.3
+2025-04,Papua Barat,0.55
+2025-05,Papua Barat,-0.33
+2025-06,Papua Barat,0.58
+2025-07,Papua Barat,1.24
+2025-08,Papua Barat,-0.99
+2025-09,Papua Barat,0.97
+2025-10,Papua Barat,-0.19
+2025-11,Papua Barat,0.65
+2025-12,Papua Barat,1.6
+2025-01,Papua Barat Daya,-1.36
+2025-02,Papua Barat Daya,-0.95
+2025-03,Papua Barat Daya,1.11
+2025-04,Papua Barat Daya,0.9
+2025-05,Papua Barat Daya,0.04
+2025-06,Papua Barat Daya,0.42
+2025-07,Papua Barat Daya,0.71
+2025-08,Papua Barat Daya,0.87
+2025-09,Papua Barat Daya,-0.11
+2025-10,Papua Barat Daya,-0.08
+2025-11,Papua Barat Daya,-0.02
+2025-12,Papua Barat Daya,0.65
+2025-01,Papua,-1.13
+2025-02,Papua,-0.52
+2025-03,Papua,1.13
+2025-04,Papua,0.69
+2025-05,Papua,0.29
+2025-06,Papua,0.09
+2025-07,Papua,-0.34
+2025-08,Papua,-0.93
+2025-09,Papua,0.04
+2025-10,Papua,-0.24
+2025-11,Papua,1.69
+2025-12,Papua,1.77
+2025-01,Papua Selatan,-0.75
+2025-02,Papua Selatan,-0.06
+2025-03,Papua Selatan,2.2
+2025-04,Papua Selatan,1.2
+2025-05,Papua Selatan,0.64
+2025-06,Papua Selatan,-0.33
+2025-07,Papua Selatan,1.44
+2025-08,Papua Selatan,-1.33
+2025-09,Papua Selatan,-1.08
+2025-10,Papua Selatan,0.02
+2025-11,Papua Selatan,0.22
+2025-12,Papua Selatan,0.81
+2025-01,Papua Tengah,-1.78
+2025-02,Papua Tengah,-0.1
+2025-03,Papua Tengah,2.6
+2025-04,Papua Tengah,1.21
+2025-05,Papua Tengah,0.01
+2025-06,Papua Tengah,-0.11
+2025-07,Papua Tengah,0.67
+2025-08,Papua Tengah,-1.23
+2025-09,Papua Tengah,-0.03
+2025-10,Papua Tengah,0.32
+2025-11,Papua Tengah,0.78
+2025-12,Papua Tengah,0.96
+2025-01,Papua Pegunungan,0.23
+2025-02,Papua Pegunungan,2.78
+2025-03,Papua Pegunungan,0.08
+2025-04,Papua Pegunungan,-0.9
+2025-05,Papua Pegunungan,0.91
+2025-06,Papua Pegunungan,-1.5
+2025-07,Papua Pegunungan,1.65
+2025-08,Papua Pegunungan,-0.44
+2025-09,Papua Pegunungan,-0.75
+2025-10,Papua Pegunungan,-0.92
+2025-11,Papua Pegunungan,0.56
+2025-12,Papua Pegunungan,1.58
+2025-01,Indonesia,-0.76
+2025-02,Indonesia,-0.48
+2025-03,Indonesia,1.65
+2025-04,Indonesia,1.17
+2025-05,Indonesia,-0.37
+2025-06,Indonesia,0.19
+2025-07,Indonesia,0.3
+2025-08,Indonesia,-0.08
+2025-09,Indonesia,0.21
+2025-10,Indonesia,0.28
+2025-11,Indonesia,0.17
+2025-12,Indonesia,0.64
+2026-01,Aceh,-0.15
+2026-02,Aceh,-0.24
+2026-03,Aceh,0.04
+2026-04,Aceh,0.23
+2026-05,Aceh,0.6
+2026-06,Aceh,0.56
+2026-07,Aceh,0.24
+2026-08,Aceh,0.28
+2026-01,Sumatera Utara,-0.75
+2026-02,Sumatera Utara,0.22
+2026-03,Sumatera Utara,-0.13
+2026-04,Sumatera Utara,0.44
+2026-05,Sumatera Utara,0.89
+2026-06,Sumatera Utara,0.23
+2026-07,Sumatera Utara,0.19
+2026-08,Sumatera Utara,0.43
+2026-01,Sumatera Barat,-1.15
+2026-02,Sumatera Barat,0.3
+2026-03,Sumatera Barat,0.04
+2026-04,Sumatera Barat,0.39
+2026-05,Sumatera Barat,0.9
+2026-06,Sumatera Barat,0.5
+2026-07,Sumatera Barat,0.07
+2026-08,Sumatera Barat,0.18
+2026-01,Riau,-0.45
+2026-02,Riau,0.32
+2026-03,Riau,-0.2
+2026-04,Riau,0.17
+2026-05,Riau,0.76
+2026-06,Riau,0.35
+2026-07,Riau,-0.08
+2026-08,Riau,0.31
+2026-01,Jambi,-0.47
+2026-02,Jambi,0.58
+2026-03,Jambi,0.14
+2026-04,Jambi,0.27
+2026-05,Jambi,0.75
+2026-06,Jambi,0.52
+2026-07,Jambi,-0.06
+2026-08,Jambi,0.38
+2026-01,Sumatera Selatan,0.05
+2026-02,Sumatera Selatan,0.58
+2026-03,Sumatera Selatan,0.29
+2026-04,Sumatera Selatan,-0.04
+2026-05,Sumatera Selatan,0.61
+2026-06,Sumatera Selatan,0.36
+2026-07,Sumatera Selatan,-0.24
+2026-08,Sumatera Selatan,0.06
+2026-01,Bengkulu,-0.75
+2026-02,Bengkulu,0.66
+2026-03,Bengkulu,0.28
+2026-04,Bengkulu,0.35
+2026-05,Bengkulu,0.86
+2026-06,Bengkulu,0.38
+2026-07,Bengkulu,0.23
+2026-08,Bengkulu,0.31
+2026-01,Lampung,-0.07
+2026-02,Lampung,0.36
+2026-03,Lampung,0.19
+2026-04,Lampung,0.55
+2026-05,Lampung,0.82
+2026-06,Lampung,0.55
+2026-07,Lampung,-0.49
+2026-08,Lampung,0.23
+2026-01,Kepulauan Bangka Belitung,0.28
+2026-02,Kepulauan Bangka Belitung,-0.64
+2026-03,Kepulauan Bangka Belitung,0.41
+2026-04,Kepulauan Bangka Belitung,0.39
+2026-05,Kepulauan Bangka Belitung,0.06
+2026-06,Kepulauan Bangka Belitung,0.35
+2026-07,Kepulauan Bangka Belitung,0.35
+2026-08,Kepulauan Bangka Belitung,0.81
+2026-01,Kepulauan Riau,-0.09
+2026-02,Kepulauan Riau,0.44
+2026-03,Kepulauan Riau,0.08
+2026-04,Kepulauan Riau,0.43
+2026-05,Kepulauan Riau,0.38
+2026-06,Kepulauan Riau,0.6
+2026-07,Kepulauan Riau,-0.23
+2026-08,Kepulauan Riau,-0.17
+2026-01,Dki Jakarta,-0.23
+2026-02,Dki Jakarta,0.63
+2026-03,Dki Jakarta,0.51
+2026-04,Dki Jakarta,0.21
+2026-05,Dki Jakarta,0.12
+2026-06,Dki Jakarta,0.41
+2026-07,Dki Jakarta,-0.15
+2026-08,Dki Jakarta,0.15
+2026-01,Jawa Barat,-0.09
+2026-02,Jawa Barat,0.81
+2026-03,Jawa Barat,0.52
+2026-04,Jawa Barat,-0.07
+2026-05,Jawa Barat,0.24
+2026-06,Jawa Barat,0.28
+2026-07,Jawa Barat,-0.05
+2026-08,Jawa Barat,0.21
+2026-01,Jawa Tengah,-0.35
+2026-02,Jawa Tengah,0.76
+2026-03,Jawa Tengah,0.57
+2026-04,Jawa Tengah,-0.03
+2026-05,Jawa Tengah,0.23
+2026-06,Jawa Tengah,0.31
+2026-07,Jawa Tengah,-0.13
+2026-08,Jawa Tengah,0.37
+2026-01,Di Yogyakarta,-0.16
+2026-02,Di Yogyakarta,0.68
+2026-03,Di Yogyakarta,0.45
+2026-04,Di Yogyakarta,0.09
+2026-05,Di Yogyakarta,0.15
+2026-06,Di Yogyakarta,0.37
+2026-07,Di Yogyakarta,-0.31
+2026-08,Di Yogyakarta,0.27
+2026-01,Jawa Timur,-0.2
+2026-02,Jawa Timur,0.95
+2026-03,Jawa Timur,0.39
+2026-04,Jawa Timur,0.02
+2026-05,Jawa Timur,0.28
+2026-06,Jawa Timur,0.3
+2026-07,Jawa Timur,-0.26
+2026-08,Jawa Timur,0.34
+2026-01,Banten,-0.34
+2026-02,Banten,0.93
+2026-03,Banten,0.47
+2026-04,Banten,-0.08
+2026-05,Banten,0.01
+2026-06,Banten,0.41
+2026-07,Banten,-0.22
+2026-08,Banten,0.13
+2026-01,Bali,-0.34
+2026-02,Bali,0.7
+2026-03,Bali,0.56
+2026-04,Bali,0.01
+2026-05,Bali,0.42
+2026-06,Bali,0.71
+2026-07,Bali,-0.51
+2026-08,Bali,0.61
+2026-01,Nusa Tenggara Barat,0.27
+2026-02,Nusa Tenggara Barat,0.84
+2026-03,Nusa Tenggara Barat,0.81
+2026-04,Nusa Tenggara Barat,-0.11
+2026-05,Nusa Tenggara Barat,-0.08
+2026-06,Nusa Tenggara Barat,0.37
+2026-07,Nusa Tenggara Barat,-0.35
+2026-08,Nusa Tenggara Barat,0.57
+2026-01,Nusa Tenggara Timur,0.65
+2026-02,Nusa Tenggara Timur,0.45
+2026-03,Nusa Tenggara Timur,0.25
+2026-04,Nusa Tenggara Timur,0.43
+2026-05,Nusa Tenggara Timur,-0.26
+2026-06,Nusa Tenggara Timur,0.67
+2026-07,Nusa Tenggara Timur,-0.14
+2026-08,Nusa Tenggara Timur,-0.4
+2026-01,Kalimantan Barat,0.27
+2026-02,Kalimantan Barat,0.51
+2026-03,Kalimantan Barat,0.25
+2026-04,Kalimantan Barat,0.57
+2026-05,Kalimantan Barat,0.32
+2026-06,Kalimantan Barat,0.31
+2026-07,Kalimantan Barat,0.38
+2026-08,Kalimantan Barat,0.2
+2026-01,Kalimantan Tengah,0.38
+2026-02,Kalimantan Tengah,0.46
+2026-03,Kalimantan Tengah,0.54
+2026-04,Kalimantan Tengah,0.41
+2026-05,Kalimantan Tengah,0.34
+2026-06,Kalimantan Tengah,0.23
+2026-07,Kalimantan Tengah,0.23
+2026-08,Kalimantan Tengah,0.17
+2026-01,Kalimantan Selatan,0.2
+2026-02,Kalimantan Selatan,0.86
+2026-03,Kalimantan Selatan,0.5
+2026-04,Kalimantan Selatan,-0.04
+2026-05,Kalimantan Selatan,0.2
+2026-06,Kalimantan Selatan,0.48
+2026-07,Kalimantan Selatan,0.03
+2026-08,Kalimantan Selatan,0.24
+2026-01,Kalimantan Timur,0.04
+2026-02,Kalimantan Timur,0.6
+2026-03,Kalimantan Timur,0.72
+2026-04,Kalimantan Timur,0.11
+2026-05,Kalimantan Timur,0.17
+2026-06,Kalimantan Timur,0.7
+2026-07,Kalimantan Timur,0.18
+2026-08,Kalimantan Timur,0.1
+2026-01,Kalimantan Utara,0.1
+2026-02,Kalimantan Utara,0.47
+2026-03,Kalimantan Utara,0.57
+2026-04,Kalimantan Utara,0.02
+2026-05,Kalimantan Utara,0.27
+2026-06,Kalimantan Utara,0.45
+2026-07,Kalimantan Utara,-0.68
+2026-08,Kalimantan Utara,0.23
+2026-01,Sulawesi Utara,0.67
+2026-02,Sulawesi Utara,1.02
+2026-03,Sulawesi Utara,0.25
+2026-04,Sulawesi Utara,0.96
+2026-05,Sulawesi Utara,-0.61
+2026-06,Sulawesi Utara,2.12
+2026-07,Sulawesi Utara,-1.05
+2026-08,Sulawesi Utara,0.29
+2026-01,Sulawesi Tengah,0.01
+2026-02,Sulawesi Tengah,0.8
+2026-03,Sulawesi Tengah,0.38
+2026-04,Sulawesi Tengah,0.51
+2026-05,Sulawesi Tengah,0.27
+2026-06,Sulawesi Tengah,1.08
+2026-07,Sulawesi Tengah,0.02
+2026-08,Sulawesi Tengah,-0.18
+2026-01,Sulawesi Selatan,0.47
+2026-02,Sulawesi Selatan,1.04
+2026-03,Sulawesi Selatan,0.59
+2026-04,Sulawesi Selatan,-0.03
+2026-05,Sulawesi Selatan,0.09
+2026-06,Sulawesi Selatan,0.36
+2026-07,Sulawesi Selatan,-0.18
+2026-08,Sulawesi Selatan,0.14
+2026-01,Sulawesi Tenggara,0.69
+2026-02,Sulawesi Tenggara,0.65
+2026-03,Sulawesi Tenggara,0.41
+2026-04,Sulawesi Tenggara,0.5
+2026-05,Sulawesi Tenggara,0.92
+2026-06,Sulawesi Tenggara,1.29
+2026-07,Sulawesi Tenggara,-0.19
+2026-08,Sulawesi Tenggara,-0.31
+2026-01,Gorontalo,0.28
+2026-02,Gorontalo,0.83
+2026-03,Gorontalo,0.24
+2026-04,Gorontalo,0.74
+2026-05,Gorontalo,-0.96
+2026-06,Gorontalo,2.11
+2026-07,Gorontalo,-0.43
+2026-08,Gorontalo,-0.34
+2026-01,Sulawesi Barat,0.71
+2026-02,Sulawesi Barat,0.29
+2026-03,Sulawesi Barat,0.08
+2026-04,Sulawesi Barat,0.24
+2026-05,Sulawesi Barat,0.11
+2026-06,Sulawesi Barat,0.48
+2026-07,Sulawesi Barat,0.23
+2026-08,Sulawesi Barat,0.11
+2026-01,Maluku,0.75
+2026-02,Maluku,0.58
+2026-03,Maluku,-0.75
+2026-04,Maluku,-0.17
+2026-05,Maluku,0.93
+2026-06,Maluku,1.49
+2026-07,Maluku,-0.75
+2026-08,Maluku,0.81
+2026-01,Maluku Utara,1.48
+2026-02,Maluku Utara,0.83
+2026-03,Maluku Utara,-0.54
+2026-04,Maluku Utara,0.8
+2026-05,Maluku Utara,0.05
+2026-06,Maluku Utara,2.45
+2026-07,Maluku Utara,-0.67
+2026-08,Maluku Utara,-0.64
+2026-01,Papua Barat,0.02
+2026-02,Papua Barat,-0.65
+2026-03,Papua Barat,0.05
+2026-04,Papua Barat,2.0
+2026-05,Papua Barat,0.56
+2026-06,Papua Barat,1.59
+2026-07,Papua Barat,-0.2
+2026-08,Papua Barat,-1.19
+2026-01,Papua Barat Daya,0.19
+2026-02,Papua Barat Daya,-0.57
+2026-03,Papua Barat Daya,1.04
+2026-04,Papua Barat Daya,0.66
+2026-05,Papua Barat Daya,-0.01
+2026-06,Papua Barat Daya,1.71
+2026-07,Papua Barat Daya,-0.1
+2026-08,Papua Barat Daya,0.1
+2026-01,Papua,-0.36
+2026-02,Papua,0.06
+2026-03,Papua,0.7
+2026-04,Papua,0.98
+2026-05,Papua,-0.68
+2026-06,Papua,1.0
+2026-07,Papua,-1.31
+2026-08,Papua,-0.89
+2026-01,Papua Selatan,1.06
+2026-02,Papua Selatan,0.59
+2026-03,Papua Selatan,0.35
+2026-04,Papua Selatan,0.94
+2026-05,Papua Selatan,-0.5
+2026-06,Papua Selatan,0.43
+2026-07,Papua Selatan,-0.03
+2026-08,Papua Selatan,-0.27
+2026-01,Papua Tengah,-0.29
+2026-02,Papua Tengah,-0.03
+2026-03,Papua Tengah,0.26
+2026-04,Papua Tengah,0.21
+2026-05,Papua Tengah,0.52
+2026-06,Papua Tengah,1.46
+2026-07,Papua Tengah,-0.17
+2026-08,Papua Tengah,-0.32
+2026-01,Papua Pegunungan,-0.05
+2026-02,Papua Pegunungan,0.49
+2026-03,Papua Pegunungan,2.57
+2026-04,Papua Pegunungan,0.77
+2026-05,Papua Pegunungan,0.48
+2026-06,Papua Pegunungan,1.7
+2026-07,Papua Pegunungan,-1.37
+2026-08,Papua Pegunungan,-1.27
+2026-01,Indonesia,-0.15
+2026-02,Indonesia,0.68
+2026-03,Indonesia,0.41
+2026-04,Indonesia,0.13
+2026-05,Indonesia,0.28
+2026-06,Indonesia,0.44
+2026-07,Indonesia,-0.14
+2026-08,Indonesia,0.21

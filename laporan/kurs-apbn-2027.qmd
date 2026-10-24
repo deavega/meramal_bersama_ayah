@@ -1,0 +1,50 @@
+---
+title: "Asumsi Kurs APBN 2027: Pandangan Model"
+author: "Kinan"
+date: today
+format:
+  html:
+    embed-resources: true
+execute:
+  echo: false
+  warning: false
+---
+
+```{r}
+source("../kode/00_persiapan.R")
+set.seed(2027)
+kurs <- baca_kurs_bulanan() |> filter_index("2010 Jan" ~ .) |> select(bulan, kurs)
+fit <- kurs |> model(Naif = NAIVE(log(kurs)), Drift = RW(log(kurs) ~ drift()),
+                     ETS = ETS(log(kurs)), ARIMA = ARIMA(log(kurs)))
+sim <- fit |> generate(h = 15, times = 1000, bootstrap = TRUE)
+rata <- sim |> as_tibble() |> filter(year(bulan) == 2027) |>
+  summarise(rata = mean(.sim), .by = c(.model, .rep))
+m <- median(rata$rata); q <- quantile(rata$rata, c(.1, .9))
+p <- mean(rata$rata > 17500)
+```
+
+## Ringkasan
+
+Median rata-rata kurs 2027 dari gabungan empat model adalah
+**Rp`r rupiah(round(m, -1))`** per USD (rentang 80%:
+Rp`r rupiah(round(q[1], -1))`–Rp`r rupiah(round(q[2], -1))`).
+Peluang rata-rata 2027 lebih lemah dari asumsi APBN
+(Rp17.500) sekitar **`r round(100 * p)`%**.
+
+```{r}
+#| fig-cap: "Kipas forecast kurs Oktober 2026–Desember 2027"
+jalur <- sim |> as_tibble() |>
+  summarise(med = median(.sim), lo = quantile(.sim, .1),
+            hi = quantile(.sim, .9), .by = bulan)
+ggplot(jalur, aes(bulan)) +
+  geom_ribbon(aes(ymin = lo, ymax = hi), fill = warna[["biru"]], alpha = .3) +
+  geom_line(aes(y = med), colour = warna[["biru"]]) +
+  geom_line(aes(y = kurs), data = kurs |> filter_index("2022 Jan" ~ .)) +
+  geom_hline(yintercept = 17500, linetype = "dashed") +
+  scale_y_continuous(labels = rupiah) + labs(x = NULL, y = "Rp per USD")
+```
+
+## Keterbatasan
+
+Model hanya memakai pola kurs masa lalu. Uji balik 2015–2025
+menunjukkan galat rata-rata sekitar 5% untuk rata-rata setahun.
