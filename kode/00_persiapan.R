@@ -17,10 +17,18 @@ folder_data <- if (dir.exists("data")) "data" else "../data"
 warna <- c(biru = "#2a78d6", oranye = "#eb6834", hijau_laut = "#1baf7a",
            kuning = "#eda100", magenta = "#e87ba4", hijau = "#008300",
            ungu = "#6250d6", merah = "#e34948")
+# Huruf grafik: pakai Plus Jakarta Sans jika terpasang, selain itu huruf bawaan sistem.
+# Tanpa pengecekan ini, judul dan label sumbu bisa hilang di komputer yang tidak
+# punya huruf tersebut. Huruf bisa diunduh gratis dari fonts.google.com.
+huruf_grafik <- local({
+  ada <- tryCatch("Plus Jakarta Sans" %in% systemfonts::system_fonts()$family,
+                  error = function(e) FALSE)
+  if (ada) "Plus Jakarta Sans" else ""
+})
 options(ggplot2.discrete.colour = unname(warna),
         ggplot2.discrete.fill   = unname(warna))
 theme_set(
-  theme_minimal(base_size = 11, base_family = "Plus Jakarta Sans") +
+  theme_minimal(base_size = 11, base_family = huruf_grafik) +
     theme(panel.grid.minor = element_blank(),
           panel.grid.major = element_line(colour = "#e6e5e0", linewidth = 0.3),
           axis.title = element_text(colour = "#52514e", size = 9.5),
