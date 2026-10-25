@@ -13,8 +13,8 @@ execute:
 ```{r}
 # Bekerja saat di-render (dari folder laporan/) maupun saat dijalankan
 # baris demi baris di Console (dari folder proyek)
-akar <- if (file.exists("kode/00_persiapan.R")) "." else ".."
-source(file.path(akar, "kode", "00_persiapan.R"))
+folder_proyek <- if (file.exists("kode/00_persiapan.R")) "." else ".."
+source(file.path(folder_proyek, "kode", "00_persiapan.R"))
 set.seed(2027)
 kurs <- baca_kurs_bulanan() |> filter_index("2010 Jan" ~ .) |> select(bulan, kurs)
 fit <- kurs |> model(Naif = NAIVE(log(kurs)), Drift = RW(log(kurs) ~ drift()),
