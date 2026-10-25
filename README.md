@@ -1,4 +1,4 @@
-# Meramal Bersama Ayah — kode dan data hands-on
+# Meramal Bersama Ayah - kode dan data hands-on
 
 Repositori pendamping buku **Meramal Bersama Ayah: Forecasting Deret Waktu dengan R dan Positron, Studi Kasus Indonesia** (Dea Avega Editya, 2026).
 
